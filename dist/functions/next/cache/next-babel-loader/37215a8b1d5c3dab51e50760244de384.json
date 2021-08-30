@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\n\nvar XP = function XP() {\n  return __jsx(\"div\", null, __jsx(\"div\", null, \"\\u0110\\xE1nh gi\\xE1 nh\\xE0 \\u0103n\"));\n};\n\nexport default XP;","map":null,"metadata":{},"sourceType":"module"}

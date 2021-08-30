@@ -1,0 +1,128 @@
+@import "../styles/global";
+
+.Header {
+  position: -webkit-sticky;
+  position: sticky;
+
+  top: 0px;
+  z-index: 100;
+  &__Contact {
+    padding: 10px 15px;
+    text-align: right;
+    font-size: 16px !important;
+    background-color: #048010;
+    color: white;
+    &__Link {
+      color: white;
+      &:hover {
+        color: rgb(241, 241, 241);
+        text-decoration: none;
+      }
+    }
+    i {
+      cursor: pointer;
+
+    }
+    i, span {
+      padding: 0 5px;
+
+    }
+    span {
+      font-weight: 300;
+    }
+
+    &__Content {
+      display: none;
+    }
+  }
+
+  &__Navigation {
+    position: relative;
+    padding: 6px 13px;
+    background-color: rgba(216, 250, 205, 0.85);
+  }
+
+  &__Logo {
+    width: 65px;
+  }
+
+  &__Flag {
+    position: absolute;
+    top: 17px;
+    right: 68px;
+
+    &__Item {
+      cursor: pointer;
+      width: 25px;
+      margin-left: 7px;
+    }
+
+    &__Choosed {
+      filter: brightness(50%);
+    }
+  }
+}
+
+.Header__Nav {
+  position: absolute;
+  display: none;
+  top: 10px;
+  left: 100px;
+  &__Item {
+    display: inline-block;
+    padding: 10px 10px 11px 15px;
+    font-size: 17px;
+    font-weight: 700;
+    color: #333;
+    cursor: pointer;
+    &:hover {
+      // background: green;
+      color: $osac-color;
+      border-bottom: 5px solid $osac-color;
+      text-decoration: none;
+    }
+  }
+}
+
+.Active {
+  color: $osac-color;
+  border-bottom: 5px solid $osac-color;
+}
+
+// Small devices (landscape phones, 576px and up) - iphone ngang
+@media (min-width: 576px) {
+  .Header {
+    // background: yellow;
+  }
+}
+
+// Medium devices (tablets, 768px and up) - ipad doc
+@media (min-width: 768px) {
+  .Header {
+    &__Contact {
+      &__Content {
+        display: inline-block;
+      }
+    }
+  }
+}
+
+// Large devices (desktops, 992px and up) - ipad ngang
+@media (min-width: 992px) {
+  .Header {
+    // background: rgb(121, 165, 121);
+    &__Nav {
+      display: block;
+    }
+
+    &__Flag {
+      top: 23px;
+      right: 20px;
+    }
+  }
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+
+}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const PAGES = {\n  TRANG_CHU: '/',\n  GIOI_THIEU: '/gioi-thieu',\n  DICH_VU: '/dich-vu',\n  TIN_TUC: '/tin-tuc',\n  TUYEN_DUNG: '/tuyen-dung',\n  LIEN_HE: '/lien-he'\n};","map":null,"metadata":{},"sourceType":"module"}

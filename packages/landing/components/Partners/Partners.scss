@@ -1,0 +1,30 @@
+
+
+.Partners {
+  padding-bottom: 40px;
+}
+
+.swiper-container2 {
+  width: 100%;
+  overflow: auto;
+}
+
+.swiper-wrapper {
+  // -webkit-transition-timing-function:linear!important;
+  // -o-transition-timing-function:linear!important;
+  // transition-timing-function:linear!important;
+}
+
+.SwiperWrapper {
+  -webkit-transition-timing-function:linear!important;
+  -o-transition-timing-function:linear!important;
+  transition-timing-function:linear!important;
+}
+
+.swiper-slide {
+  width: 80px;
+  margin-right: 10px;
+  img {
+    width: 100%;
+  }
+}

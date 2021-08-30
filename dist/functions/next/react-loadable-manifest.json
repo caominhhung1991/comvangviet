@@ -1,0 +1,2686 @@
+{
+  "../components/Introduce/Introduce": [
+    {
+      "id": "Abe6",
+      "name": "../../node_modules/react-gsap/dist/index.es.js",
+      "file": "static/chunks/c25adb15.3168ca2089b86988c949.js",
+      "publicPath": "static/chunks/c25adb15.3168ca2089b86988c949.js"
+    },
+    {
+      "id": "jd+m",
+      "name": "../../node_modules/@redq/reuse-modal/es/index.css",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 1,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "mXe9",
+      "name": "../../node_modules/common/src/assets/css/flaticon.css",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 2,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "Mh2g",
+      "name": "./styles/dich-vu.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 3,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 4,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 5,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 6,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 7,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "yRSi",
+      "name": "./styles/gioi-thieu.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 8,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "vYUz",
+      "name": "./styles/lien-he.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 9,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "Sesg",
+      "name": "./styles/tuyen-dung.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 10,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "BY7v",
+      "name": "./components/shared/Modals/Modal.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 11,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "njYc",
+      "name": "./components/ItemServices/ItemServices.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 12,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "mtCy",
+      "name": "./components/ItemServices/ItemService/ItemService.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 13,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "pIXK",
+      "name": "./components/shared/Title/Title.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 14,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "kHM4",
+      "name": "./components/Slider/SliderHeader.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 15,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "q10d",
+      "name": "./components/Introduce/Introduce.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 16,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "5WYw",
+      "name": "./components/Story/Story.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 17,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "wyi6",
+      "name": "./components/shared/Button/Button.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 18,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "b8z8",
+      "name": "./components/Reason/Reason.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 19,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "ckM2",
+      "name": "./components/News/News.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 20,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "B9tj",
+      "name": "./components/Partners/Partners.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 21,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "wZUI",
+      "name": "./components/Reason/ReasonItem/ReasonItem.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 22,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "xGVU",
+      "name": "./components/News/NewsItem/NewsItem.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 23,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "GfiW",
+      "name": "./components/Introduce/Introduce.js",
+      "file": "static/chunks/25.494e604314f23f126957.js",
+      "publicPath": "static/chunks/25.494e604314f23f126957.js"
+    }
+  ],
+  "../components/ItemServices/ItemServices": [
+    {
+      "id": "jd+m",
+      "name": "../../node_modules/@redq/reuse-modal/es/index.css",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 1,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "mXe9",
+      "name": "../../node_modules/common/src/assets/css/flaticon.css",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 2,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "Mh2g",
+      "name": "./styles/dich-vu.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 3,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 4,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 5,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 6,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 7,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "yRSi",
+      "name": "./styles/gioi-thieu.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 8,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "vYUz",
+      "name": "./styles/lien-he.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 9,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "Sesg",
+      "name": "./styles/tuyen-dung.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 10,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "BY7v",
+      "name": "./components/shared/Modals/Modal.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 11,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "njYc",
+      "name": "./components/ItemServices/ItemServices.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 12,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "mtCy",
+      "name": "./components/ItemServices/ItemService/ItemService.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 13,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "pIXK",
+      "name": "./components/shared/Title/Title.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 14,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "kHM4",
+      "name": "./components/Slider/SliderHeader.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 15,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "q10d",
+      "name": "./components/Introduce/Introduce.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 16,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "5WYw",
+      "name": "./components/Story/Story.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 17,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "wyi6",
+      "name": "./components/shared/Button/Button.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 18,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "b8z8",
+      "name": "./components/Reason/Reason.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 19,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "ckM2",
+      "name": "./components/News/News.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 20,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "B9tj",
+      "name": "./components/Partners/Partners.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 21,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "wZUI",
+      "name": "./components/Reason/ReasonItem/ReasonItem.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 22,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "xGVU",
+      "name": "./components/News/NewsItem/NewsItem.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 23,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "+9q6",
+      "name": "./components/shared/Title/Title.js",
+      "file": "static/chunks/9.c56d502bac58ec0f9d67.js",
+      "publicPath": "static/chunks/9.c56d502bac58ec0f9d67.js"
+    },
+    {
+      "id": "cCqs",
+      "name": "./components/ItemServices/ItemServices.js",
+      "file": "static/chunks/9.c56d502bac58ec0f9d67.js",
+      "publicPath": "static/chunks/9.c56d502bac58ec0f9d67.js"
+    }
+  ],
+  "../components/News/News": [
+    {
+      "id": "jd+m",
+      "name": "../../node_modules/@redq/reuse-modal/es/index.css",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 1,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "mXe9",
+      "name": "../../node_modules/common/src/assets/css/flaticon.css",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 2,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "Mh2g",
+      "name": "./styles/dich-vu.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 3,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 4,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 5,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 6,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 7,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "yRSi",
+      "name": "./styles/gioi-thieu.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 8,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "vYUz",
+      "name": "./styles/lien-he.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 9,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "Sesg",
+      "name": "./styles/tuyen-dung.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 10,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "BY7v",
+      "name": "./components/shared/Modals/Modal.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 11,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "njYc",
+      "name": "./components/ItemServices/ItemServices.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 12,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "mtCy",
+      "name": "./components/ItemServices/ItemService/ItemService.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 13,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "pIXK",
+      "name": "./components/shared/Title/Title.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 14,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "kHM4",
+      "name": "./components/Slider/SliderHeader.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 15,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "q10d",
+      "name": "./components/Introduce/Introduce.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 16,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "5WYw",
+      "name": "./components/Story/Story.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 17,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "wyi6",
+      "name": "./components/shared/Button/Button.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 18,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "b8z8",
+      "name": "./components/Reason/Reason.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 19,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "ckM2",
+      "name": "./components/News/News.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 20,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "B9tj",
+      "name": "./components/Partners/Partners.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 21,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "wZUI",
+      "name": "./components/Reason/ReasonItem/ReasonItem.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 22,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "xGVU",
+      "name": "./components/News/NewsItem/NewsItem.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 23,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "+9q6",
+      "name": "./components/shared/Title/Title.js",
+      "file": "static/chunks/21.38d5c981abef1858d681.js",
+      "publicPath": "static/chunks/21.38d5c981abef1858d681.js"
+    },
+    {
+      "id": "8ZQb",
+      "name": "./components/shared/Button/Button.js",
+      "file": "static/chunks/21.38d5c981abef1858d681.js",
+      "publicPath": "static/chunks/21.38d5c981abef1858d681.js"
+    },
+    {
+      "id": "xSYh",
+      "name": "./components/News/News.js",
+      "file": "static/chunks/21.38d5c981abef1858d681.js",
+      "publicPath": "static/chunks/21.38d5c981abef1858d681.js"
+    }
+  ],
+  "../components/Partners/Partners": [
+    {
+      "id": "eNeL",
+      "name": "../../node_modules/swiper/js/swiper.esm.bundle.js",
+      "file": "static/chunks/2ca3b913.fd278d4d890387c9ab2e.js",
+      "publicPath": "static/chunks/2ca3b913.fd278d4d890387c9ab2e.js"
+    },
+    {
+      "id": "5LAg",
+      "name": "../../node_modules/ssr-window/dist/ssr-window.esm.js",
+      "file": "static/chunks/c8f7fe3b0e41be846d5687592cf2018ff6e22687.25991a7bec2277e73e75.js",
+      "publicPath": "static/chunks/c8f7fe3b0e41be846d5687592cf2018ff6e22687.25991a7bec2277e73e75.js"
+    },
+    {
+      "id": "8m4E",
+      "name": "../../node_modules/dom7/dist/dom7.modular.js",
+      "file": "static/chunks/c8f7fe3b0e41be846d5687592cf2018ff6e22687.25991a7bec2277e73e75.js",
+      "publicPath": "static/chunks/c8f7fe3b0e41be846d5687592cf2018ff6e22687.25991a7bec2277e73e75.js"
+    },
+    {
+      "id": "jd+m",
+      "name": "../../node_modules/@redq/reuse-modal/es/index.css",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 1,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "mXe9",
+      "name": "../../node_modules/common/src/assets/css/flaticon.css",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 2,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "Mh2g",
+      "name": "./styles/dich-vu.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 3,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 4,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 5,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 6,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 7,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "yRSi",
+      "name": "./styles/gioi-thieu.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 8,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "vYUz",
+      "name": "./styles/lien-he.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 9,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "Sesg",
+      "name": "./styles/tuyen-dung.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 10,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "BY7v",
+      "name": "./components/shared/Modals/Modal.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 11,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "njYc",
+      "name": "./components/ItemServices/ItemServices.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 12,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "mtCy",
+      "name": "./components/ItemServices/ItemService/ItemService.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 13,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "pIXK",
+      "name": "./components/shared/Title/Title.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 14,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "kHM4",
+      "name": "./components/Slider/SliderHeader.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 15,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "q10d",
+      "name": "./components/Introduce/Introduce.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 16,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "5WYw",
+      "name": "./components/Story/Story.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 17,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "wyi6",
+      "name": "./components/shared/Button/Button.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 18,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "b8z8",
+      "name": "./components/Reason/Reason.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 19,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "ckM2",
+      "name": "./components/News/News.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 20,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "B9tj",
+      "name": "./components/Partners/Partners.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 21,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "wZUI",
+      "name": "./components/Reason/ReasonItem/ReasonItem.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 22,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "xGVU",
+      "name": "./components/News/NewsItem/NewsItem.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 23,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "+9q6",
+      "name": "./components/shared/Title/Title.js",
+      "file": "static/chunks/23.c0b72678fbd116d08edb.js",
+      "publicPath": "static/chunks/23.c0b72678fbd116d08edb.js"
+    },
+    {
+      "id": "NLhV",
+      "name": "./components/Partners/Partners.js",
+      "file": "static/chunks/23.c0b72678fbd116d08edb.js",
+      "publicPath": "static/chunks/23.c0b72678fbd116d08edb.js"
+    }
+  ],
+  "../components/Reason/Reason": [
+    {
+      "id": "jd+m",
+      "name": "../../node_modules/@redq/reuse-modal/es/index.css",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 1,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "mXe9",
+      "name": "../../node_modules/common/src/assets/css/flaticon.css",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 2,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "Mh2g",
+      "name": "./styles/dich-vu.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 3,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 4,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 5,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 6,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 7,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "yRSi",
+      "name": "./styles/gioi-thieu.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 8,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "vYUz",
+      "name": "./styles/lien-he.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 9,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "Sesg",
+      "name": "./styles/tuyen-dung.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 10,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "BY7v",
+      "name": "./components/shared/Modals/Modal.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 11,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "njYc",
+      "name": "./components/ItemServices/ItemServices.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 12,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "mtCy",
+      "name": "./components/ItemServices/ItemService/ItemService.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 13,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "pIXK",
+      "name": "./components/shared/Title/Title.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 14,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "kHM4",
+      "name": "./components/Slider/SliderHeader.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 15,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "q10d",
+      "name": "./components/Introduce/Introduce.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 16,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "5WYw",
+      "name": "./components/Story/Story.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 17,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "wyi6",
+      "name": "./components/shared/Button/Button.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 18,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "b8z8",
+      "name": "./components/Reason/Reason.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 19,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "ckM2",
+      "name": "./components/News/News.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 20,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "B9tj",
+      "name": "./components/Partners/Partners.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 21,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "wZUI",
+      "name": "./components/Reason/ReasonItem/ReasonItem.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 22,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "xGVU",
+      "name": "./components/News/NewsItem/NewsItem.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 23,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "W3Mb",
+      "name": "./components/Reason/Reason.js",
+      "file": "static/chunks/27.bdc7d476115c7017fc64.js",
+      "publicPath": "static/chunks/27.bdc7d476115c7017fc64.js"
+    }
+  ],
+  "../components/Slider/SliderHeader": [
+    {
+      "id": "eNeL",
+      "name": "../../node_modules/swiper/js/swiper.esm.bundle.js",
+      "file": "static/chunks/2ca3b913.fd278d4d890387c9ab2e.js",
+      "publicPath": "static/chunks/2ca3b913.fd278d4d890387c9ab2e.js"
+    },
+    {
+      "id": "5LAg",
+      "name": "../../node_modules/ssr-window/dist/ssr-window.esm.js",
+      "file": "static/chunks/c8f7fe3b0e41be846d5687592cf2018ff6e22687.25991a7bec2277e73e75.js",
+      "publicPath": "static/chunks/c8f7fe3b0e41be846d5687592cf2018ff6e22687.25991a7bec2277e73e75.js"
+    },
+    {
+      "id": "8m4E",
+      "name": "../../node_modules/dom7/dist/dom7.modular.js",
+      "file": "static/chunks/c8f7fe3b0e41be846d5687592cf2018ff6e22687.25991a7bec2277e73e75.js",
+      "publicPath": "static/chunks/c8f7fe3b0e41be846d5687592cf2018ff6e22687.25991a7bec2277e73e75.js"
+    },
+    {
+      "id": "jd+m",
+      "name": "../../node_modules/@redq/reuse-modal/es/index.css",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 1,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "mXe9",
+      "name": "../../node_modules/common/src/assets/css/flaticon.css",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 2,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "Mh2g",
+      "name": "./styles/dich-vu.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 3,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 4,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 5,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 6,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 7,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "yRSi",
+      "name": "./styles/gioi-thieu.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 8,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "vYUz",
+      "name": "./styles/lien-he.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 9,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "Sesg",
+      "name": "./styles/tuyen-dung.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 10,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "BY7v",
+      "name": "./components/shared/Modals/Modal.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 11,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "njYc",
+      "name": "./components/ItemServices/ItemServices.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 12,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "mtCy",
+      "name": "./components/ItemServices/ItemService/ItemService.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 13,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "pIXK",
+      "name": "./components/shared/Title/Title.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 14,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "kHM4",
+      "name": "./components/Slider/SliderHeader.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 15,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "q10d",
+      "name": "./components/Introduce/Introduce.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 16,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "5WYw",
+      "name": "./components/Story/Story.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 17,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "wyi6",
+      "name": "./components/shared/Button/Button.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 18,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "b8z8",
+      "name": "./components/Reason/Reason.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 19,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "ckM2",
+      "name": "./components/News/News.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 20,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "B9tj",
+      "name": "./components/Partners/Partners.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 21,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "wZUI",
+      "name": "./components/Reason/ReasonItem/ReasonItem.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 22,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "xGVU",
+      "name": "./components/News/NewsItem/NewsItem.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 23,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "OcDW",
+      "name": "./components/Slider/SliderHeader.js",
+      "file": "static/chunks/28.02df561094a013c288fb.js",
+      "publicPath": "static/chunks/28.02df561094a013c288fb.js"
+    }
+  ],
+  "../components/Story/Story": [
+    {
+      "id": "jd+m",
+      "name": "../../node_modules/@redq/reuse-modal/es/index.css",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 1,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "mXe9",
+      "name": "../../node_modules/common/src/assets/css/flaticon.css",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 2,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "Mh2g",
+      "name": "./styles/dich-vu.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 3,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 4,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 5,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 6,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 7,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "yRSi",
+      "name": "./styles/gioi-thieu.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 8,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "vYUz",
+      "name": "./styles/lien-he.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 9,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "Sesg",
+      "name": "./styles/tuyen-dung.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 10,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "BY7v",
+      "name": "./components/shared/Modals/Modal.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 11,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "njYc",
+      "name": "./components/ItemServices/ItemServices.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 12,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "mtCy",
+      "name": "./components/ItemServices/ItemService/ItemService.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 13,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "pIXK",
+      "name": "./components/shared/Title/Title.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 14,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "kHM4",
+      "name": "./components/Slider/SliderHeader.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 15,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "q10d",
+      "name": "./components/Introduce/Introduce.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 16,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "5WYw",
+      "name": "./components/Story/Story.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 17,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "wyi6",
+      "name": "./components/shared/Button/Button.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 18,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "b8z8",
+      "name": "./components/Reason/Reason.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 19,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "ckM2",
+      "name": "./components/News/News.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 20,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "B9tj",
+      "name": "./components/Partners/Partners.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 21,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "wZUI",
+      "name": "./components/Reason/ReasonItem/ReasonItem.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 22,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "xGVU",
+      "name": "./components/News/NewsItem/NewsItem.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 23,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "+9q6",
+      "name": "./components/shared/Title/Title.js",
+      "file": "static/chunks/22.8ec9c924822cd41f7939.js",
+      "publicPath": "static/chunks/22.8ec9c924822cd41f7939.js"
+    },
+    {
+      "id": "8ZQb",
+      "name": "./components/shared/Button/Button.js",
+      "file": "static/chunks/22.8ec9c924822cd41f7939.js",
+      "publicPath": "static/chunks/22.8ec9c924822cd41f7939.js"
+    },
+    {
+      "id": "ywOc",
+      "name": "./components/Story/Story.js",
+      "file": "static/chunks/22.8ec9c924822cd41f7939.js",
+      "publicPath": "static/chunks/22.8ec9c924822cd41f7939.js"
+    }
+  ],
+  "../shared/Title/Title": [
+    {
+      "id": "jd+m",
+      "name": "../../node_modules/@redq/reuse-modal/es/index.css",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 1,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "mXe9",
+      "name": "../../node_modules/common/src/assets/css/flaticon.css",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 2,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "Mh2g",
+      "name": "./styles/dich-vu.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 3,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 4,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 5,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 6,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 7,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "yRSi",
+      "name": "./styles/gioi-thieu.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 8,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "vYUz",
+      "name": "./styles/lien-he.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 9,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "Sesg",
+      "name": "./styles/tuyen-dung.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 10,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "BY7v",
+      "name": "./components/shared/Modals/Modal.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 11,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "njYc",
+      "name": "./components/ItemServices/ItemServices.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 12,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "mtCy",
+      "name": "./components/ItemServices/ItemService/ItemService.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 13,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "pIXK",
+      "name": "./components/shared/Title/Title.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 14,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "kHM4",
+      "name": "./components/Slider/SliderHeader.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 15,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "q10d",
+      "name": "./components/Introduce/Introduce.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 16,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "5WYw",
+      "name": "./components/Story/Story.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 17,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "wyi6",
+      "name": "./components/shared/Button/Button.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 18,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "b8z8",
+      "name": "./components/Reason/Reason.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 19,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "ckM2",
+      "name": "./components/News/News.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 20,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "B9tj",
+      "name": "./components/Partners/Partners.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 21,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "wZUI",
+      "name": "./components/Reason/ReasonItem/ReasonItem.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 22,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "xGVU",
+      "name": "./components/News/NewsItem/NewsItem.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 23,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "+9q6",
+      "name": "./components/shared/Title/Title.js",
+      "file": "static/chunks/29.2fe7150d406aedb30876.js",
+      "publicPath": "static/chunks/29.2fe7150d406aedb30876.js"
+    }
+  ],
+  "./NewsItem/NewsItem": [
+    {
+      "id": "jd+m",
+      "name": "../../node_modules/@redq/reuse-modal/es/index.css",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 1,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "mXe9",
+      "name": "../../node_modules/common/src/assets/css/flaticon.css",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 2,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "Mh2g",
+      "name": "./styles/dich-vu.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 3,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 4,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 5,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 6,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 7,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "yRSi",
+      "name": "./styles/gioi-thieu.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 8,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "vYUz",
+      "name": "./styles/lien-he.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 9,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "Sesg",
+      "name": "./styles/tuyen-dung.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 10,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "BY7v",
+      "name": "./components/shared/Modals/Modal.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 11,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "njYc",
+      "name": "./components/ItemServices/ItemServices.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 12,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "mtCy",
+      "name": "./components/ItemServices/ItemService/ItemService.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 13,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "pIXK",
+      "name": "./components/shared/Title/Title.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 14,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "kHM4",
+      "name": "./components/Slider/SliderHeader.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 15,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "q10d",
+      "name": "./components/Introduce/Introduce.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 16,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "5WYw",
+      "name": "./components/Story/Story.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 17,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "wyi6",
+      "name": "./components/shared/Button/Button.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 18,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "b8z8",
+      "name": "./components/Reason/Reason.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 19,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "ckM2",
+      "name": "./components/News/News.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 20,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "B9tj",
+      "name": "./components/Partners/Partners.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 21,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "wZUI",
+      "name": "./components/Reason/ReasonItem/ReasonItem.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 22,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "xGVU",
+      "name": "./components/News/NewsItem/NewsItem.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 23,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "DeL4",
+      "name": "./components/News/NewsItem/NewsItem.js",
+      "file": "static/chunks/26.2d050ac6e33587afdc4d.js",
+      "publicPath": "static/chunks/26.2d050ac6e33587afdc4d.js"
+    }
+  ],
+  "./ReasonItem/ReasonItem": [
+    {
+      "id": "jd+m",
+      "name": "../../node_modules/@redq/reuse-modal/es/index.css",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 1,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "mXe9",
+      "name": "../../node_modules/common/src/assets/css/flaticon.css",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 2,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "Mh2g",
+      "name": "./styles/dich-vu.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 3,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 4,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 5,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 6,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 7,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "yRSi",
+      "name": "./styles/gioi-thieu.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 8,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "vYUz",
+      "name": "./styles/lien-he.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 9,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "Sesg",
+      "name": "./styles/tuyen-dung.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 10,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "BY7v",
+      "name": "./components/shared/Modals/Modal.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 11,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "njYc",
+      "name": "./components/ItemServices/ItemServices.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 12,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "mtCy",
+      "name": "./components/ItemServices/ItemService/ItemService.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 13,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "pIXK",
+      "name": "./components/shared/Title/Title.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 14,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "kHM4",
+      "name": "./components/Slider/SliderHeader.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 15,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "q10d",
+      "name": "./components/Introduce/Introduce.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 16,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "5WYw",
+      "name": "./components/Story/Story.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 17,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "wyi6",
+      "name": "./components/shared/Button/Button.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 18,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "b8z8",
+      "name": "./components/Reason/Reason.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 19,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "ckM2",
+      "name": "./components/News/News.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 20,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "B9tj",
+      "name": "./components/Partners/Partners.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 21,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "wZUI",
+      "name": "./components/Reason/ReasonItem/ReasonItem.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 22,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "xGVU",
+      "name": "./components/News/NewsItem/NewsItem.scss",
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": 23,
+      "name": null,
+      "file": "static/chunks/styles.869ad062305c5cc33e48.js",
+      "publicPath": "static/chunks/styles.869ad062305c5cc33e48.js"
+    },
+    {
+      "id": "8ZQb",
+      "name": "./components/shared/Button/Button.js",
+      "file": "static/chunks/24.99912b378779ca198fe1.js",
+      "publicPath": "static/chunks/24.99912b378779ca198fe1.js"
+    },
+    {
+      "id": "CQ0a",
+      "name": "./components/Reason/ReasonItem/ReasonItem.js",
+      "file": "static/chunks/24.99912b378779ca198fe1.js",
+      "publicPath": "static/chunks/24.99912b378779ca198fe1.js"
+    }
+  ]
+}

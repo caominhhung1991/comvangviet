@@ -1,0 +1,65 @@
+@import '../../styles/global.scss';
+
+.Title {
+  position: relative;
+  font-size: 20px;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 10px 0 15px 0;
+  &__Text {
+    font-weight: 700;
+    display: inline-block;
+    background: white;
+    padding: 0 15px;
+  }
+  &__Line {
+    z-index: -1;
+    width: 100%;
+    position: absolute;
+    top: 23px;
+    right: 0;
+    left: 0;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 1px solid $osac-color;
+    display: inline-block;
+  }
+}
+
+@media (min-width: 576px) {
+  .Title {
+    &__Line {
+      width: 420px;
+    }
+  }
+}
+
+// Medium devices (tablets, 768px and up) - ipad doc
+@media (min-width: 768px) { 
+  
+  .Title {
+    font-size: 25px;
+    &__Line {
+      width: 620px;
+      top: 28px;
+    }
+  }
+
+  
+}
+
+// Large devices (desktops, 992px and up) - ipad ngang
+@media (min-width: 992px) { 
+  .Title {
+    font-size: 30px;
+    &__Line {
+      width: 720px;
+      top: 33px;
+    }
+  }
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+  
+} 

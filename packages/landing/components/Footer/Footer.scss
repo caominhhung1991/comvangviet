@@ -1,0 +1,139 @@
+@import '../styles/global.scss';
+
+.Footer {
+  height: 100%;
+  background: #f1f1f1;
+  padding: 15px;
+  &__Content {
+    height: 100%;
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 1fr;
+    &__Left {
+      display: grid;
+      gap: 10px;
+      grid-template-columns: 1fr 1fr;
+    }
+    &__Right {
+      height: 100%;
+    }
+  }
+
+  &__Website {
+    font-family: 'Lobster', cursive;
+    &__Company {
+      font-size: 45px;
+      margin-bottom: 0;
+    }
+    &__Address {
+      margin-top: 0;
+    }
+  }
+
+  &__Address {
+    display: grid;
+    grid-template-columns: 1fr;
+    &__Title {
+      font-weight: 700;
+    }
+
+    &__Content {
+
+    }
+  }
+
+  &__Menu {
+    &__Link {
+      color: #333;
+    }
+  }
+
+  &__Title {
+    font-weight: 700;
+    font-size: 17px;
+  }
+
+  &__Column {
+    margin-top: 20px;
+  }
+
+  &__Column1 {
+
+  }
+
+  &__Info {
+    margin-top: 5px;
+    display: grid;
+    color: #333;
+    grid-template-columns: 22px 1fr;
+    &__Icon {
+      width: 20px;
+    }
+
+    &__Text {
+      font-size: 13px;
+      line-height: 25px;
+    }
+  }
+}
+
+.map {
+  &__title {
+    display: flex;
+    &__item {
+      font-weight: bold;
+      cursor: pointer;
+      padding: 15px;
+      &:hover {
+        color: $osac-color;
+      }
+    }
+  }
+  &--active {
+    color: $osac-color;
+  }
+}
+
+
+// Small devices (landscape phones, 576px and up) - iphone ngang
+@media (min-width: 576px) {
+  .Footer {
+    &__Content {
+      &__Left {
+        grid-template-columns: 1fr 1fr 1fr;
+      }
+      // grid-template-columns: 1fr 1fr;
+      // background: green;
+    }
+  }
+}
+
+// Medium devices (tablets, 768px and up) - ipad doc
+@media (min-width: 768px) { 
+  .Footer {
+    &__Content {
+      grid-template-columns: 1fr 1fr;
+      &__Left {
+        grid-template-columns: 1fr 1fr;
+      }
+      // background: green;
+    }
+  }
+}
+
+// Large devices (desktops, 992px and up) - ipad ngang
+@media (min-width: 992px) { 
+  .Footer {
+    &__Content {
+      &__Left {
+        grid-template-columns: 1fr 1fr 1fr;
+      }
+      // background: green;
+    }
+  }
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+  
+}

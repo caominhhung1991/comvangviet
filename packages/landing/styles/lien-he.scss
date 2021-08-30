@@ -1,0 +1,122 @@
+@import "./../components/styles/global";
+
+.osac {
+  &__input {
+    border: 1px solid $osac-color;
+  }
+
+  &__color {
+    color: $osac-color
+  }
+
+  &__line {
+    color: $osac-color
+  }
+
+  &__button {
+    background: $osac-color;
+    color: white;
+
+    &:hover {
+      background: $osac-color-light;
+      color: black;
+    }
+  }
+}
+
+.lh {
+  &__banner {
+    padding: 50px 70px;
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/osac-a381e.appspot.com/o/osac%2Flien-he-banner.jpg?alt=media&token=1c65d21b-2571-4d85-8dba-e72acdd62bf9");
+    background-size: cover;
+    background-position: center;
+  }
+
+  &__title {
+    font-size: 40px;
+
+    &__content {
+
+      margin: auto;
+      margin-top: 10px;
+      color: white;
+      font-size: 20px;
+    }
+  }
+
+  &__form {
+    //border: 1px solid gray;
+    border-radius: 5px;
+    padding: 40px 60px 80px 60px;
+    box-shadow: 0 0 10px lightgray;
+  }
+
+  &__right {
+    //padding: 10px 40px 40px 40px;
+    //box-shadow: 0 0 10px lightgray;
+    &__image {
+      width: 100%;
+    }
+  }
+}
+
+.background {
+  &__white {
+    //width: 400px;
+    //margin: auto;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.2);
+    padding: 30px;
+
+  }
+}
+
+//@media (min-width: 576px) {  }
+
+@media (min-width: 768px) {
+  .lh {
+    &__title {
+      &__content {
+        width: 550px;
+      }
+    }
+
+    &__form {
+    }
+  }
+}
+
+@media (min-width: 992px) {
+  .lh {
+    &__banner {
+      padding: 90px 70px;
+    }
+
+    &__title {
+      font-size: 50px;
+
+      &__content {
+        width: 800px;
+        font-size: 30px;
+      }
+    }
+
+    &__form {
+    }
+  }
+}
+
+@media (min-width: 1200px) {
+  .lh {
+    &__title {
+      font-size: 65px;
+
+      &__content {
+        width: 950px;
+      }
+    }
+
+    &__form {
+    }
+  }
+}

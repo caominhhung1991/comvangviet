@@ -1,0 +1,68 @@
+.parallax {
+  height: 150px;
+  position: relative;
+  overflow: hidden;
+  // transition: height 0.3s ease-in-out;
+  img {
+    width: 100%;
+    height: auto;
+    position: absolute;
+  }
+  h2 {
+    font-size: 25px;
+    position: absolute;
+    top: 0;
+    left: 100px;
+    text-shadow: 2px 8px 6px rgba(0, 0, 0, 0.2), 0px -5px 35px rgba(255, 255, 255, 0.3);
+  }
+}
+
+// Small devices (landscape phones, 576px and up) - iphone ngang
+@media (min-width: 576px) {
+  .parallax {
+    height: 200px;
+    img {
+      width: 100%;
+    }
+    h2 {
+      font-size: 25px;
+    }
+  }
+}
+
+// Medium devices (tablets, 768px and up) - ipad doc
+@media (min-width: 768px) { 
+  .parallax {
+    height: 200px;
+    img {
+    }
+    h2 {
+      font-size: 25px;
+    }
+  }
+}
+
+// Large devices (desktops, 992px and up) - ipad ngang
+@media (min-width: 992px) { 
+  .parallax {
+    height: 350px;
+    img {
+    }
+    h2 {
+      font-size: 25px;
+    }
+  }
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+  .parallax {
+    height: 500px;
+    img {
+    }
+    h2 {
+      left: 300px;
+      font-size: 75px;
+    }
+  }
+}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React, { Component } from 'react';\nimport './Button.scss';\nexport class Button extends Component {\n  render() {\n    return __jsx(\"button\", {\n      className: \"Btn\"\n    }, this.props.text);\n  }\n\n}\nexport default Button;","map":null,"metadata":{},"sourceType":"module"}

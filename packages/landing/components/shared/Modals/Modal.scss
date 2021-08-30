@@ -1,0 +1,25 @@
+@import "components/styles/global.scss";
+
+.osac {
+  &__input {
+    border: 1px solid $osac-color;
+  }
+
+  &__color {
+    color: $osac-color
+  }
+
+  &__line {
+    color: $osac-color
+  }
+
+  &__button {
+    background: $osac-color;
+    color: white;
+
+    &:hover {
+      background: $osac-color-light;
+      color: black;
+    }
+  }
+}

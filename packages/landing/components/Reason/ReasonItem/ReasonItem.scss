@@ -1,0 +1,58 @@
+@import '../../styles/global.scss';
+$size: 250px;
+
+.ReasonItem {
+  width: 300px;
+  padding: 5px 0 35px 0;
+  display: grid;
+  justify-items: center;
+  &__Image {
+    width: $size;
+    height: $size;
+    background-size: cover;
+    border-radius: 50%;
+    border: 5px solid white;
+    box-shadow: 1px 1px 10px lightgray;
+    cursor: pointer;
+    transition: transform 0.1s ease-in-out;
+    &:hover {
+      transform: scale(1.02);
+      box-shadow: 1px 1px 20px lightgray;
+    }
+  }
+
+  &__Title {
+    margin-top: 15px;
+    font-size: 25px;
+    color: $osac-color;
+    font-weight: 700;
+    text-align: center;
+  }
+
+  &__Content {
+    text-align: center;
+    padding: 20px 0 20px 0;
+  }
+}
+
+ // Small devices (landscape phones, 576px and up) - iphone ngang
+ @media (min-width: 576px) {
+  .ReasonItem {
+    
+  }
+}
+
+// Medium devices (tablets, 768px and up) - ipad doc
+@media (min-width: 768px) { 
+ 
+}
+
+// Large devices (desktops, 992px and up) - ipad ngang
+@media (min-width: 992px) { 
+ 
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+  
+} 

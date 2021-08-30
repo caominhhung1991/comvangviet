@@ -1,0 +1,45 @@
+
+
+.Reason {
+  &__Content {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+  }
+}
+
+ // Small devices (landscape phones, 576px and up) - iphone ngang
+ @media (min-width: 576px) {
+  .Reason {
+    &__Content {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+}
+
+// Medium devices (tablets, 768px and up) - ipad doc
+@media (min-width: 768px) { 
+  .Reason {
+    &__Content {
+      grid-template-columns: 1fr 1fr 1fr;
+    }
+  }
+  
+}
+
+// Large devices (desktops, 992px and up) - ipad ngang
+@media (min-width: 992px) { 
+  .Reason {
+    &__Content {
+      // grid-template-columns: 1fr 1fr 1fr;
+    }
+  }
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+  .Reason {
+    width: 1200px;
+    margin: auto;
+  }
+} 

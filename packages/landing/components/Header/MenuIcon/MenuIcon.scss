@@ -1,0 +1,81 @@
+
+
+.MenuIcon {
+  width: 40px;
+  height: 40px;
+  top: 16px;
+  right: 13px;
+  position: absolute;
+  transform: rotate(0deg);
+  transition: 0.3s ease-in-out;
+  z-index: 3;
+  cursor: pointer;
+  &__Span {
+    display: block;
+    position: absolute;
+    height: 5px;
+    width: 100%;
+    background: #d3531a;
+    border-radius: 9px;
+    opacity: 1;
+    left: 0;
+    transform: rotate(0deg);
+    transition: 0.15s ease-in-out;
+    &:nth-child(1) {
+      top: 0px;
+      transform-origin: left center;
+    }
+    &:nth-child(2) {
+      top: 12px;
+      transform-origin: left center;
+    }
+    &:nth-child(3) {
+      top: 24px;
+      transform-origin: left center;
+    }
+  }
+}
+
+.MenuIcon.Open .MenuIcon__Span {
+  &:nth-child(1) {
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+    top:  0px;
+    left: 0px;
+  }
+  &:nth-child(2) {
+    width: 0%;
+    opacity: 0;
+  }
+  &:nth-child(3) {
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    top: 28px;
+    left: 0px;
+  }
+}
+
+// Small devices (landscape phones, 576px and up) - iphone ngang
+@media (min-width: 576px) {
+}
+
+// Medium devices (tablets, 768px and up) - ipad doc
+@media (min-width: 768px) { 
+  
+}
+
+// Large devices (desktops, 992px and up) - ipad ngang
+@media (min-width: 992px) { 
+  .MenuIcon {
+    display: none;
+  }
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+  
+}
