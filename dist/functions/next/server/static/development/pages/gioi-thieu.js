@@ -3891,7 +3891,7 @@ const GioiThieu = props => {
       columnNumber: 22
     }
   }, "HACCP")), __jsx("img", {
-    src: "https://firebasestorage.googleapis.com/v0/b/osac-a381e.appspot.com/o/osac%2Fhaccp-osac.jpg?alt=media&token=c513c8e7-dfb9-4e65-b08d-e67b8e5eddcf",
+    src: "https://vinbeca.vn/uploads/about/307718613076466vithumb_1366x490.jpg",
     alt: "cung c\u1EA5p su\u1EA5t \u0103n c\xF4ng nghi\u1EC7p",
     className: "gt__image my-2 mb-3",
     __self: undefined,

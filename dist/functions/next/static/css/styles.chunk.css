@@ -70,12 +70,53 @@
 
 .banner {
   height: 300px;
-  background-image: url("https://firebasestorage.googleapis.com/v0/b/osac-a381e.appspot.com/o/osac%2F70600891_101794514557396_3563362940461514752_o.jpg?alt=media&token=7cf0ec85-1571-461d-acec-c7e8b869761b");
+  background-image: url("https://lh3.googleusercontent.com/proxy/t-YrgKX-Kuqm7uZ6hCOPAEYozZZ6KjCqWfwp1e69O9VJHfIXgmd5h4Eh2XbQKA9Pq8cJ904F7wsjmoai11ZAAsbrJ3Tcig8wr1FdXVBi1eRGDOUmTkN3Z8RkDrnqvPWDpt-PPAnETKwwvvZP-B8IzSVMFr8");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center; }
   .banner__image {
     width: 100%; }
+
+.tuyenDungBanner {
+  width: 100%; }
+  .tuyenDungBanner__image {
+    width: 100%; }
+
+.dangTuyenDung {
+  background: #a7cf3a;
+  padding: 100px 0 85px 0;
+  color: white;
+  position: relative; }
+  .dangTuyenDung__title {
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 55px; }
+  .dangTuyenDung__line {
+    line-height: 0;
+    font-size: 75px;
+    font-weight: bold;
+    position: absolute;
+    top: -47px; }
+
+.baiDang__title {
+  font-weight: bold;
+  font-size: 20px;
+  padding-bottom: 10px;
+  color: #3a5e8e;
+  cursor: pointer;
+  text-decoration: underline;
+  display: inline-block; }
+  .baiDang__title:hover {
+    color: #048010; }
+
+.baiDang__item {
+  padding-bottom: 5px; }
+
+.baiDang__line {
+  font-weight: bold; }
+
+.osac-color {
+  color: #3a5e8e; }
 
 .Header {
   position: -webkit-sticky;
@@ -317,6 +358,22 @@
 @media (min-width: 992px) {
   .Footer__Content__Left {
     grid-template-columns: 1fr 1fr 1fr; } }
+
+.osac__input {
+  border: 1px solid #048010; }
+
+.osac__color {
+  color: #048010; }
+
+.osac__line {
+  color: #048010; }
+
+.osac__button {
+  background: #048010;
+  color: white; }
+  .osac__button:hover {
+    background: #1ebd11;
+    color: black; }
 
 .swiper-container {
   width: 100%;

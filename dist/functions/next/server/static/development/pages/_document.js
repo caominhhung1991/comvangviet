@@ -100,7 +100,7 @@ module.exports =
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "/_next/static/images/favicon-409a8ad117c3e6b81470b1ed2a02b0a6.png";
+module.exports = "/_next/static/images/favicon-ebe83b062412c74399e399978b241c60.png";
 
 /***/ }),
 

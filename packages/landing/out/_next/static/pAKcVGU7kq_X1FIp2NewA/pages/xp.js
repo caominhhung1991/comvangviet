@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{XfQo:function(n,i,o){"use strict";o.r(i);var u=o("ERkP"),t=o.n(u).a.createElement;i.default=function(){return t("div",null,t("div",null,"\u0110\xe1nh gi\xe1 nh\xe0 \u0103n"))}},lZ2v:function(n,i,o){(window.__NEXT_P=window.__NEXT_P||[]).push(["/xp",function(){return o("XfQo")}])}},[["lZ2v",1,3,2]]]);

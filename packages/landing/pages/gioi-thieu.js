@@ -36,7 +36,7 @@ const GioiThieu = (props) => {
             nhận của <strong>HACCP</strong></p>
 
           <img
-            src='https://firebasestorage.googleapis.com/v0/b/osac-a381e.appspot.com/o/osac%2Fhaccp-osac.jpg?alt=media&token=c513c8e7-dfb9-4e65-b08d-e67b8e5eddcf'
+            src='https://vinbeca.vn/uploads/about/307718613076466vithumb_1366x490.jpg'
             alt='cung cấp suất ăn công nghiệp'
             className='gt__image my-2 mb-3'
           />
