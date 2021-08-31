@@ -2188,7 +2188,7 @@ const Footer = () => {
     }
   }, "(+84) 363.575.468")), __jsx("a", {
     className: "Footer__Info",
-    href: "http://osac.vn",
+    href: "tel:0765661626 ",
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
@@ -2204,7 +2204,7 @@ const Footer = () => {
       columnNumber: 15
     }
   }, __jsx("i", {
-    className: "fa fa-desktop",
+    className: "fa fa-phone",
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
@@ -2219,9 +2219,9 @@ const Footer = () => {
       lineNumber: 30,
       columnNumber: 15
     }
-  }, "comvangviet.com")), __jsx("a", {
+  }, "(+84) 765.661.626")), __jsx("a", {
     className: "Footer__Info",
-    href: "mailto:hoangviet@osac.vn?subject=Subject Using Mailto.co.uk&body=Email Using Body",
+    href: "http://osac.vn",
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
@@ -2237,7 +2237,7 @@ const Footer = () => {
       columnNumber: 15
     }
   }, __jsx("i", {
-    className: "fa fa-envelope",
+    className: "fa fa-desktop",
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
@@ -2252,12 +2252,13 @@ const Footer = () => {
       lineNumber: 34,
       columnNumber: 15
     }
-  }, "sales@comvangviet.com")), __jsx("div", {
+  }, "comvangviet.com")), __jsx("a", {
     className: "Footer__Info",
+    href: "mailto:hoangviet@osac.vn?subject=Subject Using Mailto.co.uk&body=Email Using Body",
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 37,
+      lineNumber: 36,
       columnNumber: 13
     }
   }, __jsx("div", {
@@ -2265,7 +2266,39 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
+      lineNumber: 37,
+      columnNumber: 15
+    }
+  }, __jsx("i", {
+    className: "fa fa-envelope",
+    __self: undefined,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 37,
+      columnNumber: 51
+    }
+  })), __jsx("div", {
+    className: "Footer__Info__Text",
+    __self: undefined,
+    __source: {
+      fileName: _jsxFileName,
       lineNumber: 38,
+      columnNumber: 15
+    }
+  }, "sales@comvangviet.com")), __jsx("div", {
+    className: "Footer__Info",
+    __self: undefined,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 41,
+      columnNumber: 13
+    }
+  }, __jsx("div", {
+    className: "Footer__Info__Icon",
+    __self: undefined,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 42,
       columnNumber: 15
     }
   }, __jsx("i", {
@@ -2273,7 +2306,7 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 39,
+      lineNumber: 43,
       columnNumber: 17
     }
   })), __jsx("div", {
@@ -2281,7 +2314,7 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 41,
+      lineNumber: 45,
       columnNumber: 15
     }
   }, __jsx("div", {
@@ -2289,7 +2322,7 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 42,
+      lineNumber: 46,
       columnNumber: 17
     }
   }, "V\u0102N PH\xD2NG C\u01A0M V\xC0NG VI\u1EC6T"), __jsx("div", {
@@ -2297,15 +2330,15 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 43,
+      lineNumber: 47,
       columnNumber: 17
     }
-  }, "Xu\xE2n Th\u1EA1nh, Th\u1ED1ng Nh\u1EA5t, \u0110\u1ED3ng Nai")))), __jsx("div", {
+  }, "S\u1ED1 F5, KDC T\xE2n Bi\xEAn, P. T\xE2n Bi\xEAn, TP Bi\xEAn H\xF2a, T. \u0110\u1ED3ng Nai")))), __jsx("div", {
     className: "Footer__Column Footer__Column2",
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 58,
+      lineNumber: 64,
       columnNumber: 11
     }
   }, __jsx("div", {
@@ -2313,42 +2346,10 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 59,
+      lineNumber: 65,
       columnNumber: 13
     }
   }, "Menu"), __jsx("div", {
-    className: "Footer__Menu",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 60,
-      columnNumber: 13
-    }
-  }, __jsx("div", {
-    className: "Footer__Info__Text",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 61,
-      columnNumber: 15
-    }
-  }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
-    href: _constants_app_constants__WEBPACK_IMPORTED_MODULE_3__["PAGES"].TRANG_CHU,
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 62,
-      columnNumber: 17
-    }
-  }, __jsx("a", {
-    className: "Footer__Menu__Link",
-    __self: undefined,
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 62,
-      columnNumber: 46
-    }
-  }, "Trang ch\u1EE7")))), __jsx("div", {
     className: "Footer__Menu",
     __self: undefined,
     __source: {
@@ -2365,7 +2366,7 @@ const Footer = () => {
       columnNumber: 15
     }
   }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
-    href: _constants_app_constants__WEBPACK_IMPORTED_MODULE_3__["PAGES"].GIOI_THIEU,
+    href: _constants_app_constants__WEBPACK_IMPORTED_MODULE_3__["PAGES"].TRANG_CHU,
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
@@ -2378,9 +2379,9 @@ const Footer = () => {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 68,
-      columnNumber: 47
+      columnNumber: 46
     }
-  }, "Gi\u1EDBi thi\u1EC7u")))), __jsx("div", {
+  }, "Trang ch\u1EE7")))), __jsx("div", {
     className: "Footer__Menu",
     __self: undefined,
     __source: {
@@ -2397,7 +2398,7 @@ const Footer = () => {
       columnNumber: 15
     }
   }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
-    href: _constants_app_constants__WEBPACK_IMPORTED_MODULE_3__["PAGES"].DICH_VU,
+    href: _constants_app_constants__WEBPACK_IMPORTED_MODULE_3__["PAGES"].GIOI_THIEU,
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
@@ -2410,6 +2411,38 @@ const Footer = () => {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 74,
+      columnNumber: 47
+    }
+  }, "Gi\u1EDBi thi\u1EC7u")))), __jsx("div", {
+    className: "Footer__Menu",
+    __self: undefined,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 78,
+      columnNumber: 13
+    }
+  }, __jsx("div", {
+    className: "Footer__Info__Text",
+    __self: undefined,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 79,
+      columnNumber: 15
+    }
+  }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
+    href: _constants_app_constants__WEBPACK_IMPORTED_MODULE_3__["PAGES"].DICH_VU,
+    __self: undefined,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 80,
+      columnNumber: 17
+    }
+  }, __jsx("a", {
+    className: "Footer__Menu__Link",
+    __self: undefined,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 80,
       columnNumber: 44
     }
   }, "D\u1ECBch v\u1EE5")))), __jsx("div", {
@@ -2417,7 +2450,7 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 84,
+      lineNumber: 90,
       columnNumber: 13
     }
   }, __jsx("div", {
@@ -2425,7 +2458,7 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 85,
+      lineNumber: 91,
       columnNumber: 15
     }
   }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
@@ -2433,7 +2466,7 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 86,
+      lineNumber: 92,
       columnNumber: 17
     }
   }, __jsx("a", {
@@ -2441,7 +2474,7 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 86,
+      lineNumber: 92,
       columnNumber: 47
     }
   }, "Tuy\u1EC3n d\u1EE5ng"))))), __jsx("div", {
@@ -2449,7 +2482,7 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 91,
+      lineNumber: 97,
       columnNumber: 11
     }
   }, __jsx("div", {
@@ -2457,7 +2490,7 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 92,
+      lineNumber: 98,
       columnNumber: 13
     }
   }, "M\u1EA1ng x\xE3 h\u1ED9i"), __jsx("div", {
@@ -2465,7 +2498,7 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 93,
+      lineNumber: 99,
       columnNumber: 13
     }
   }, __jsx("div", {
@@ -2473,7 +2506,7 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 94,
+      lineNumber: 100,
       columnNumber: 15
     }
   }, __jsx("div", {
@@ -2481,7 +2514,7 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 95,
+      lineNumber: 101,
       columnNumber: 17
     }
   }, __jsx("i", {
@@ -2489,7 +2522,7 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 95,
+      lineNumber: 101,
       columnNumber: 53
     }
   })), __jsx("div", {
@@ -2497,7 +2530,7 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 96,
+      lineNumber: 102,
       columnNumber: 17
     }
   }, __jsx("a", {
@@ -2507,7 +2540,7 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 97,
+      lineNumber: 103,
       columnNumber: 19
     }
   }, "Facebook")))), __jsx("div", {
@@ -2515,7 +2548,7 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 102,
+      lineNumber: 108,
       columnNumber: 13
     }
   }, __jsx("div", {
@@ -2523,7 +2556,7 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 103,
+      lineNumber: 109,
       columnNumber: 15
     }
   }, __jsx("div", {
@@ -2531,7 +2564,7 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 104,
+      lineNumber: 110,
       columnNumber: 17
     }
   }, __jsx("i", {
@@ -2539,7 +2572,7 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 104,
+      lineNumber: 110,
       columnNumber: 53
     }
   })), __jsx("div", {
@@ -2547,7 +2580,7 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 105,
+      lineNumber: 111,
       columnNumber: 17
     }
   }, __jsx("a", {
@@ -2557,7 +2590,7 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 106,
+      lineNumber: 112,
       columnNumber: 19
     }
   }, "Instagram")))), __jsx("div", {
@@ -2565,7 +2598,7 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 111,
+      lineNumber: 117,
       columnNumber: 13
     }
   }, __jsx("div", {
@@ -2573,7 +2606,7 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 112,
+      lineNumber: 118,
       columnNumber: 15
     }
   }, __jsx("div", {
@@ -2581,7 +2614,7 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 113,
+      lineNumber: 119,
       columnNumber: 17
     }
   }, __jsx("i", {
@@ -2589,7 +2622,7 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 113,
+      lineNumber: 119,
       columnNumber: 53
     }
   })), __jsx("div", {
@@ -2597,7 +2630,7 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 114,
+      lineNumber: 120,
       columnNumber: 17
     }
   }, __jsx("a", {
@@ -2607,7 +2640,7 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 115,
+      lineNumber: 121,
       columnNumber: 19
     }
   }, "Youtube")))))), __jsx("div", {
@@ -2615,7 +2648,7 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 122,
+      lineNumber: 128,
       columnNumber: 9
     }
   }, __jsx("div", {
@@ -2623,21 +2656,29 @@ const Footer = () => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 123,
+      lineNumber: 129,
       columnNumber: 11
     }
   }, __jsx("div", {
-    className: ['map__title__item', isVanPhong ? 'map--active' : ''].join(' '),
+    className: ["map__title__item", isVanPhong ? "map--active" : ""].join(" "),
     onClick: () => {
       _setDiadiem(_shared_MyGoogleMap_MyGoogleMap__WEBPACK_IMPORTED_MODULE_4__["diadiems"].vanphong);
     },
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 124,
+      lineNumber: 130,
       columnNumber: 13
     }
-  }, String(_shared_MyGoogleMap_MyGoogleMap__WEBPACK_IMPORTED_MODULE_4__["diadiems"].vanphong.name).toUpperCase())))));
+  }, String(_shared_MyGoogleMap_MyGoogleMap__WEBPACK_IMPORTED_MODULE_4__["diadiems"].vanphong.name).toUpperCase())), __jsx(_shared_MyGoogleMap_MyGoogleMap__WEBPACK_IMPORTED_MODULE_4__["default"], {
+    place: _diadiem.id || _shared_MyGoogleMap_MyGoogleMap__WEBPACK_IMPORTED_MODULE_4__["diadiems"].vanphong.id,
+    __self: undefined,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 143,
+      columnNumber: 11
+    }
+  }))));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Footer);
@@ -2800,7 +2841,39 @@ const Header = props => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 51,
+      lineNumber: 52,
+      columnNumber: 9
+    }
+  }, "|"), __jsx("a", {
+    className: "Header__Contact__Link",
+    href: "tel:0765661626 ",
+    __self: undefined,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 53,
+      columnNumber: 9
+    }
+  }, __jsx("i", {
+    className: "fa fa-phone",
+    __self: undefined,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 54,
+      columnNumber: 11
+    }
+  }), " ", __jsx("span", {
+    className: "Header__Contact__Content",
+    __self: undefined,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 54,
+      columnNumber: 40
+    }
+  }, "(+84) 765.661.626 ")), __jsx("span", {
+    __self: undefined,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 57,
       columnNumber: 9
     }
   }, "|"), __jsx("a", {
@@ -2809,7 +2882,7 @@ const Header = props => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 52,
+      lineNumber: 58,
       columnNumber: 9
     }
   }, __jsx("i", {
@@ -2817,7 +2890,7 @@ const Header = props => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 53,
+      lineNumber: 59,
       columnNumber: 11
     }
   }), " ", __jsx("span", {
@@ -2825,7 +2898,7 @@ const Header = props => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 53,
+      lineNumber: 59,
       columnNumber: 43
     }
   }, "sales@comvangviet.com"))), __jsx("div", {
@@ -2833,7 +2906,7 @@ const Header = props => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 57,
+      lineNumber: 63,
       columnNumber: 7
     }
   }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
@@ -2841,7 +2914,7 @@ const Header = props => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 58,
+      lineNumber: 64,
       columnNumber: 9
     }
   }, __jsx("img", {
@@ -2851,7 +2924,7 @@ const Header = props => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 58,
+      lineNumber: 64,
       columnNumber: 26
     }
   })), __jsx("div", {
@@ -2859,7 +2932,7 @@ const Header = props => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 59,
+      lineNumber: 65,
       columnNumber: 9
     }
   }, __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
@@ -2867,7 +2940,7 @@ const Header = props => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 61,
+      lineNumber: 67,
       columnNumber: 11
     }
   }, __jsx("a", {
@@ -2876,7 +2949,7 @@ const Header = props => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 62,
+      lineNumber: 68,
       columnNumber: 13
     }
   }, "Trang Ch\u1EE7")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
@@ -2884,7 +2957,7 @@ const Header = props => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 65,
+      lineNumber: 71,
       columnNumber: 11
     }
   }, __jsx("a", {
@@ -2893,7 +2966,7 @@ const Header = props => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 66,
+      lineNumber: 72,
       columnNumber: 13
     }
   }, "Gi\u1EDBi thi\u1EC7u")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
@@ -2901,7 +2974,7 @@ const Header = props => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 77,
+      lineNumber: 83,
       columnNumber: 11
     }
   }, __jsx("a", {
@@ -2910,7 +2983,7 @@ const Header = props => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 78,
+      lineNumber: 84,
       columnNumber: 13
     }
   }, "Tuy\u1EC3n d\u1EE5ng")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
@@ -2918,7 +2991,7 @@ const Header = props => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 81,
+      lineNumber: 87,
       columnNumber: 11
     }
   }, __jsx("a", {
@@ -2927,7 +3000,7 @@ const Header = props => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 82,
+      lineNumber: 88,
       columnNumber: 13
     }
   }, "Li\xEAn h\u1EC7"))), __jsx("div", {
@@ -2935,7 +3008,7 @@ const Header = props => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 86,
+      lineNumber: 92,
       columnNumber: 9
     }
   }, __jsx("img", {
@@ -2946,7 +3019,7 @@ const Header = props => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 87,
+      lineNumber: 93,
       columnNumber: 11
     }
   }), __jsx("img", {
@@ -2957,7 +3030,7 @@ const Header = props => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 92,
+      lineNumber: 98,
       columnNumber: 11
     }
   })), __jsx(_MenuIcon_MenuIcon__WEBPACK_IMPORTED_MODULE_6__["default"], {
@@ -2966,7 +3039,7 @@ const Header = props => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 99,
+      lineNumber: 105,
       columnNumber: 9
     }
   }), __jsx(_Sidebar_Sidebar__WEBPACK_IMPORTED_MODULE_7__["default"], {
@@ -2975,7 +3048,7 @@ const Header = props => {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 100,
+      lineNumber: 106,
       columnNumber: 9
     }
   })));
@@ -3343,6 +3416,8 @@ var _jsxFileName = "/Users/mac/Public/Osac-project/ComVangViet-FE-Website-nextjs
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
 
+ // import {MarkerWithLabel} from 'react-google-maps'
+// import {MarkerWithLabel} from 'react-google-maps/lib/components/addons/MarkerWithLabel'
 
 
 const diadiems = {
@@ -3356,13 +3431,14 @@ const diadiems = {
   vanphong: {
     id: 'vanphong',
     name: 'Văn phòng Cơm Vàng Việt',
-    address: '..., Hồ Chí Minh',
+    // address: 'sss',
+    address: 'Số F5, KDC Tân Biên, P. Tân Biên, TP Biên Hòa, T. Đồng Nai',
     lat: 10.8216284,
     lng: 106.8065395
   }
 };
 const MyGoogleMap = Object(recompose__WEBPACK_IMPORTED_MODULE_1__["compose"])(Object(recompose__WEBPACK_IMPORTED_MODULE_1__["withProps"])({
-  googleMapURL: "https://maps.googleapis.com/maps/api/js?key=AIzaSyBGh8mfCJKIwUNmlK5kq6PY1hXWT1gdwHM&v=3.exp&libraries=geometry,drawing,places",
+  googleMapURL: "https://maps.googleapis.com/maps/api/js?key=AIzaSyCaf5xlNWCTH1x-_kQDqvL_8sYp8UlWlZE&v=3.exp&libraries=geometry,drawing,places",
   loadingElement: __jsx("div", {
     style: {
       height: `100%`
@@ -3370,7 +3446,7 @@ const MyGoogleMap = Object(recompose__WEBPACK_IMPORTED_MODULE_1__["compose"])(Ob
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 26,
+      lineNumber: 30,
       columnNumber: 21
     }
   }),
@@ -3381,7 +3457,7 @@ const MyGoogleMap = Object(recompose__WEBPACK_IMPORTED_MODULE_1__["compose"])(Ob
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 27,
+      lineNumber: 31,
       columnNumber: 23
     }
   }),
@@ -3392,7 +3468,7 @@ const MyGoogleMap = Object(recompose__WEBPACK_IMPORTED_MODULE_1__["compose"])(Ob
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 28,
+      lineNumber: 32,
       columnNumber: 17
     }
   })
@@ -3415,10 +3491,10 @@ const MyGoogleMap = Object(recompose__WEBPACK_IMPORTED_MODULE_1__["compose"])(Ob
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 38,
+      lineNumber: 42,
       columnNumber: 7
     }
-  }, __jsx(react_google_maps_lib_components_addons_MarkerWithLabel__WEBPACK_IMPORTED_MODULE_3__["MarkerWithLabel"], {
+  }, __jsx(react_google_maps_lib_components_addons_MarkerWithLabel__WEBPACK_IMPORTED_MODULE_3___default.a, {
     position: center,
     labelAnchor: new window.google.maps.Point(130, 70),
     labelStyle: {
@@ -3430,24 +3506,32 @@ const MyGoogleMap = Object(recompose__WEBPACK_IMPORTED_MODULE_1__["compose"])(Ob
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 39,
+      lineNumber: 43,
       columnNumber: 9
     }
   }, isMarkerClicked ? __jsx("div", {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 46,
+      lineNumber: 50,
       columnNumber: 31
     }
   }, diadiem.address) : __jsx("div", {
     __self: undefined,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 46,
+      lineNumber: 50,
       columnNumber: 62
     }
-  })));
+  })), props.isMarkerShown && __jsx(react_google_maps__WEBPACK_IMPORTED_MODULE_2__["Marker"], {
+    position: props.center,
+    __self: undefined,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 54,
+      columnNumber: 34
+    }
+  }));
 });
 /* harmony default export */ __webpack_exports__["default"] = (MyGoogleMap);
 

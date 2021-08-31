@@ -38,6 +38,10 @@ class CustomDocument extends Document {
       <body>
       <Main/>
       <NextScript/>
+
+      <script
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCaf5xlNWCTH1x-_kQDqvL_8sYp8UlWlZE&callback=initMap&libraries=&v=weekly" async
+      />
       </body>
       </html>
     );

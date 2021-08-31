@@ -1,7 +1,10 @@
 import React, {useState} from 'react'
 import {compose, withProps} from 'recompose'
-import {GoogleMap, withGoogleMap, withScriptjs} from 'react-google-maps'
-import {MarkerWithLabel} from 'react-google-maps/lib/components/addons/MarkerWithLabel'
+import { GoogleMap, Marker, withGoogleMap, withScriptjs } from "react-google-maps";
+// import {MarkerWithLabel} from 'react-google-maps'
+// import {MarkerWithLabel} from 'react-google-maps/lib/components/addons/MarkerWithLabel'
+import MarkerWithLabel from "react-google-maps/lib/components/addons/MarkerWithLabel";
+
 
 export const diadiems = {
   xuongSX: {
@@ -14,7 +17,8 @@ export const diadiems = {
   vanphong: {
     id: 'vanphong',
     name: 'Văn phòng Cơm Vàng Việt',
-    address: '..., Hồ Chí Minh',
+    // address: 'sss',
+    address: 'Số F5, KDC Tân Biên, P. Tân Biên, TP Biên Hòa, T. Đồng Nai',
     lat: 10.8216284,
     lng: 106.8065395,
   }
@@ -22,7 +26,7 @@ export const diadiems = {
 
 const MyGoogleMap = compose(
   withProps({
-    googleMapURL: "https://maps.googleapis.com/maps/api/js?key=AIzaSyBGh8mfCJKIwUNmlK5kq6PY1hXWT1gdwHM&v=3.exp&libraries=geometry,drawing,places",
+    googleMapURL: "https://maps.googleapis.com/maps/api/js?key=AIzaSyCaf5xlNWCTH1x-_kQDqvL_8sYp8UlWlZE&v=3.exp&libraries=geometry,drawing,places",
     loadingElement: <div style={{height: `100%`}}/>,
     containerElement: <div style={{height: `350px`}}/>,
     mapElement: <div style={{height: `100%`}}/>,
@@ -47,7 +51,7 @@ const MyGoogleMap = compose(
           }
         </MarkerWithLabel>
 
-        {/* {props.isMarkerShown && <Marker position={props.center} />} */}
+         {props.isMarkerShown && <Marker position={props.center} />}
       </GoogleMap>
     )
   }

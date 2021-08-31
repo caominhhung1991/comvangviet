@@ -1,14 +1,14 @@
-import React, {useState} from 'react'
-import './Footer.scss'
-import Link from 'next/link'
-import {PAGES} from "../../constants/app-constants"
-import MyGoogleMap, {diadiems} from "../shared/MyGoogleMap/MyGoogleMap";
+import React, { useState } from "react";
+import "./Footer.scss";
+import Link from "next/link";
+import { PAGES } from "../../constants/app-constants";
+import MyGoogleMap, { diadiems } from "../shared/MyGoogleMap/MyGoogleMap";
 
 const Footer = () => {
-  const [_diadiem, _setDiadiem] = useState(diadiems.vanphong)
+  const [_diadiem, _setDiadiem] = useState(diadiems.vanphong);
 
-  const isVanPhong = diadiems.vanphong.id === _diadiem.id
-  const isXuongSX = diadiems.xuongSX.id === _diadiem.id
+  const isVanPhong = diadiems.vanphong.id === _diadiem.id;
+  const isXuongSX = diadiems.xuongSX.id === _diadiem.id;
 
   return (
     <div className='Footer'>
@@ -25,6 +25,10 @@ const Footer = () => {
               <div className='Footer__Info__Icon'><i className='fa fa-phone'/></div>
               <div className='Footer__Info__Text'>(+84) 363.575.468</div>
             </a>
+            <a className='Footer__Info' href='tel:0765661626 '>
+              <div className='Footer__Info__Icon'><i className='fa fa-phone'/></div>
+              <div className='Footer__Info__Text'>(+84) 765.661.626</div>
+            </a>
             <a className='Footer__Info' href='http://osac.vn'>
               <div className='Footer__Info__Icon'><i className='fa fa-desktop'/></div>
               <div className='Footer__Info__Text'>comvangviet.com</div>
@@ -40,18 +44,20 @@ const Footer = () => {
               </div>
               <div className='Footer__Info__Text Footer__Address'>
                 <div className='Footer__Address__Title'>VĂN PHÒNG CƠM VÀNG VIỆT</div>
-                <div className='Footer__Address__Content'>Xuân Thạnh, Thống Nhất, Đồng Nai</div>
+                <div className='Footer__Address__Content'>
+                  Số F5, KDC Tân Biên, P. Tân Biên, TP Biên Hòa, T. Đồng Nai
+                </div>
               </div>
             </div>
 
             {/*<div className='Footer__Info'>*/}
-              {/*<div className='Footer__Info__Icon'>*/}
-                {/*<i className='fa fa-truck'/>*/}
-              {/*</div>*/}
-              {/*<div className='Footer__Info__Text Footer__Address'>*/}
-                {/*<div className='Footer__Address__Title'>CHI NHÁNH OSAC BÌNH DƯƠNG</div>*/}
-                {/*<div className='Footer__Address__Content'>40 Đường số 3, P. Hòa Phú, Tp. Thủ Dầu Một, Bình Dương</div>*/}
-              {/*</div>*/}
+            {/*<div className='Footer__Info__Icon'>*/}
+            {/*<i className='fa fa-truck'/>*/}
+            {/*</div>*/}
+            {/*<div className='Footer__Info__Text Footer__Address'>*/}
+            {/*<div className='Footer__Address__Title'>CHI NHÁNH OSAC BÌNH DƯƠNG</div>*/}
+            {/*<div className='Footer__Address__Content'>40 Đường số 3, P. Hòa Phú, Tp. Thủ Dầu Một, Bình Dương</div>*/}
+            {/*</div>*/}
             {/*</div>*/}
           </div>
 
@@ -76,9 +82,9 @@ const Footer = () => {
             </div>
 
             {/*<div className='Footer__Menu'>*/}
-              {/*<div className='Footer__Info__Text'>*/}
-                {/*<Link href={PAGES.DICH_VU}><a className='Footer__Menu__Link'>Tin tức</a></Link>*/}
-              {/*</div>*/}
+            {/*<div className='Footer__Info__Text'>*/}
+            {/*<Link href={PAGES.DICH_VU}><a className='Footer__Menu__Link'>Tin tức</a></Link>*/}
+            {/*</div>*/}
             {/*</div>*/}
 
             <div className='Footer__Menu'>
@@ -122,23 +128,23 @@ const Footer = () => {
         <div className='Footer__Content__Right'>
           <div className='map__title'>
             <div
-              className={['map__title__item', isVanPhong ? 'map--active' : ''].join(' ')}
+              className={["map__title__item", isVanPhong ? "map--active" : ""].join(" ")}
               onClick={() => {
-                _setDiadiem(diadiems.vanphong)
+                _setDiadiem(diadiems.vanphong);
               }}>{String(diadiems.vanphong.name).toUpperCase()}</div>
 
             {/*<div*/}
-              {/*className={['map__title__item', isXuongSX ? 'map--active' : ''].join(' ')}*/}
-              {/*onClick={() => {*/}
-                {/*_setDiadiem(diadiems.xuongSX)*/}
-              {/*}}>{String(diadiems.xuongSX.name).toUpperCase()}</div>*/}
+            {/*className={['map__title__item', isXuongSX ? 'map--active' : ''].join(' ')}*/}
+            {/*onClick={() => {*/}
+            {/*_setDiadiem(diadiems.xuongSX)*/}
+            {/*}}>{String(diadiems.xuongSX.name).toUpperCase()}</div>*/}
           </div>
 
-          {/*<MyGoogleMap place={_diadiem.id || diadiems.vanphong.id}/>*/}
+          <MyGoogleMap place={_diadiem.id || diadiems.vanphong.id}/>
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Footer
+export default Footer;

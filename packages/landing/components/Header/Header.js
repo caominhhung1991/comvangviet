@@ -48,6 +48,12 @@ const Header = props => {
         <a className="Header__Contact__Link" href="tel:0363575468">
           <i className="fa fa-phone"/> <span className="Header__Contact__Content">(+84) 363.575.468</span>
         </a>
+
+        <span>|</span>
+        <a className="Header__Contact__Link" href="tel:0765661626 ">
+          <i className="fa fa-phone"/> <span className="Header__Contact__Content">(+84) 765.661.626 </span>
+        </a>
+
         <span>|</span>
         <a className="Header__Contact__Link" href="mailto:sales@comvangviet.com">
           <i className="fa fa-envelope"/> <span className="Header__Contact__Content">sales@comvangviet.com</span>

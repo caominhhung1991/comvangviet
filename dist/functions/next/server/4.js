@@ -32,11 +32,11 @@ const propTypes = {
 };
 const imageMap = {
   "chat_luong_tieu_chuan": reasonImage,
-  "nguon_thuc_pham_an_toan": 'https://atvstp.org.vn/wp-content/uploads/2018/12/anh-1-kiem-dinh-ve-sinh-an-toan-thuc-pham-la-qua-trinh-bat-buoc-v%C3%A0-thiet-thuc.png',
-  "dich_vu_linh_hoat": 'https://atvstp.org.vn/wp-content/uploads/2018/12/anh-1-kiem-dinh-ve-sinh-an-toan-thuc-pham-la-qua-trinh-bat-buoc-v%C3%A0-thiet-thuc.png',
-  "kinh_nghiem_va_uy_tinh": 'https://atvstp.org.vn/wp-content/uploads/2018/12/anh-1-kiem-dinh-ve-sinh-an-toan-thuc-pham-la-qua-trinh-bat-buoc-v%C3%A0-thiet-thuc.png',
-  "khach_hang_la_trong_tam": 'https://atvstp.org.vn/wp-content/uploads/2018/12/anh-1-kiem-dinh-ve-sinh-an-toan-thuc-pham-la-qua-trinh-bat-buoc-v%C3%A0-thiet-thuc.png',
-  "luon_luon_cai_tien": 'https://atvstp.org.vn/wp-content/uploads/2018/12/anh-1-kiem-dinh-ve-sinh-an-toan-thuc-pham-la-qua-trinh-bat-buoc-v%C3%A0-thiet-thuc.png'
+  "nguon_thuc_pham_an_toan": 'https://timviec365.vn/pictures/news/2019/11/09/iqu1573274184.jpg',
+  "dich_vu_linh_hoat": 'https://cdn.luatvietnam.vn/uploaded/Images/Standard/2020/02/21/co-cau-lai-nganh-dich-vu-2020_2102132747.png',
+  "kinh_nghiem_va_uy_tinh": 'https://topviec.vn/wp-content/uploads/2019/12/k%E1%BB%B9-n%C4%83ng-ng%C3%A0nh-d%E1%BB%8Bch-v%E1%BB%A5.jpg',
+  "khach_hang_la_trong_tam": 'https://cempartner.com/FileUpload/Images/dichvukhachhangtot.jpg',
+  "luon_luon_cai_tien": 'https://crmviet.vn/wp-content/uploads/2019/09/y-tuong-cai-tien-cong-viec.jpg'
 }; //
 
 class ReasonItem extends react__WEBPACK_IMPORTED_MODULE_0__["Component"] {

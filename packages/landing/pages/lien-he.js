@@ -81,12 +81,17 @@ const LienHe = () => {
                 <ul className='list-unstyled'>
                   <li className='d-flex mb-3'>
                     <i className='fa fa-map-marker fa-2x osac__color mr-3'/>
-                    <p style={{lineHeight: '20px'}}>Xuân Thạnh, Thống Nhất, Đồng Nai</p>
+                    <p style={{lineHeight: '20px'}}>Số F5, KDC Tân Biên, P. Tân Biên, TP Biên Hòa, T. Đồng Nai</p>
                   </li>
 
                   <li className='d-flex mb-3'>
                     <i className='fa fa-phone fa-2x osac__color mr-3'/>
-                    <p><a href='tel:0363575468'>Quốc Thuận - 0363.575.468</a></p>
+                    <p><a href='tel:0363575468'>Sales Admin - 0363.575.468</a></p>
+                  </li>
+
+                  <li className='d-flex mb-3'>
+                    <i className='fa fa-phone fa-2x osac__color mr-3'/>
+                    <p><a href='tel:0765661626 '>Quốc Thuận - 0765.661.626 </a></p>
                   </li>
 
                   <li className='d-flex mb-3'>

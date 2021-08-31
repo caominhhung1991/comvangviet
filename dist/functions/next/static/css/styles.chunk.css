@@ -59,64 +59,67 @@
   z-index: 9999999;
 }
 
-.gt__title {
+.osac__input {
+  border: 1px solid #048010; }
+
+.osac__color {
   color: #048010; }
 
-.gt__image {
-  width: 100%; }
+.osac__line {
+  color: #048010; }
 
-.gt strong {
-  color: #048010 !important; }
+.osac__button {
+  background: #048010;
+  color: white; }
+  .osac__button:hover {
+    background: #1ebd11;
+    color: black; }
 
-.banner {
-  height: 300px;
-  background-image: url("https://lh3.googleusercontent.com/proxy/t-YrgKX-Kuqm7uZ6hCOPAEYozZZ6KjCqWfwp1e69O9VJHfIXgmd5h4Eh2XbQKA9Pq8cJ904F7wsjmoai11ZAAsbrJ3Tcig8wr1FdXVBi1eRGDOUmTkN3Z8RkDrnqvPWDpt-PPAnETKwwvvZP-B8IzSVMFr8");
-  background-repeat: no-repeat;
+.lh__banner {
+  padding: 50px 70px;
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/osac-a381e.appspot.com/o/osac%2Flien-he-banner.jpg?alt=media&token=1c65d21b-2571-4d85-8dba-e72acdd62bf9");
   background-size: cover;
-  background-position: center center; }
-  .banner__image {
-    width: 100%; }
+  background-position: center; }
 
-.tuyenDungBanner {
+.lh__title {
+  font-size: 40px; }
+  .lh__title__content {
+    margin: auto;
+    margin-top: 10px;
+    color: white;
+    font-size: 20px; }
+
+.lh__form {
+  border-radius: 5px;
+  padding: 40px 60px 80px 60px;
+  box-shadow: 0 0 10px lightgray; }
+
+.lh__right__image {
   width: 100%; }
-  .tuyenDungBanner__image {
-    width: 100%; }
 
-.dangTuyenDung {
-  background: #a7cf3a;
-  padding: 100px 0 85px 0;
-  color: white;
-  position: relative; }
-  .dangTuyenDung__title {
-    font-weight: bold;
-    font-size: 40px;
-    line-height: 55px; }
-  .dangTuyenDung__line {
-    line-height: 0;
-    font-size: 75px;
-    font-weight: bold;
-    position: absolute;
-    top: -47px; }
+.background__white {
+  height: 100%;
+  background: rgba(0, 0, 0, 0.2);
+  padding: 30px; }
 
-.baiDang__title {
-  font-weight: bold;
-  font-size: 20px;
-  padding-bottom: 10px;
-  color: #3a5e8e;
-  cursor: pointer;
-  text-decoration: underline;
-  display: inline-block; }
-  .baiDang__title:hover {
-    color: #048010; }
+@media (min-width: 768px) {
+  .lh__title__content {
+    width: 550px; } }
 
-.baiDang__item {
-  padding-bottom: 5px; }
+@media (min-width: 992px) {
+  .lh__banner {
+    padding: 90px 70px; }
+  .lh__title {
+    font-size: 50px; }
+    .lh__title__content {
+      width: 800px;
+      font-size: 30px; } }
 
-.baiDang__line {
-  font-weight: bold; }
-
-.osac-color {
-  color: #3a5e8e; }
+@media (min-width: 1200px) {
+  .lh__title {
+    font-size: 65px; }
+    .lh__title__content {
+      width: 950px; } }
 
 .Header {
   position: -webkit-sticky;
@@ -358,22 +361,6 @@
 @media (min-width: 992px) {
   .Footer__Content__Left {
     grid-template-columns: 1fr 1fr 1fr; } }
-
-.osac__input {
-  border: 1px solid #048010; }
-
-.osac__color {
-  color: #048010; }
-
-.osac__line {
-  color: #048010; }
-
-.osac__button {
-  background: #048010;
-  color: white; }
-  .osac__button:hover {
-    background: #1ebd11;
-    color: black; }
 
 .swiper-container {
   width: 100%;
